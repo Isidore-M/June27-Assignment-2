@@ -1,12 +1,51 @@
-# June27-Assignment-2
+🛩️ The Project Falcon: Building the First Flying Car
 
-This is our second assignment. Your first issue will be to complete the README.md (this file).
+🚀 Description
 
--  *a title **(required)**
--  *a description **(required)**
--  a list of features (ai, machine learning, etc...)
--  a list of technologies used (languages, frameworks, etc...)
--  a list of known bugs (don't really need a description, just a list, the bug is usually sefl-explanatory)
--  a list of contributors (usernames only, GitHub profile links would work)
--  some instructions (how to install, how to use, etc...)
--  you can also add a table of contents, images, links, etc... (these would be for larger projects but have fun if you like 😊)
+Project Falcon is an ambitious venture to develop the world’s first fully functional flying car. Combining aerospace engineering, automotive innovation, and cutting-edge AI, this project aims to revolutionize personal transport by taking it to the skies.
+
+⸻
+✨ Features
+	•	Artificial Intelligence-assisted flight control
+	•	Machine Learning for adaptive driving/flying modes
+	•	Real-time GPS & obstacle avoidance
+	•	Hybrid electric propulsion
+	•	Vertical Take-Off and Landing (VTOL)
+	•	Voice-command interface
+
+⸻
+
+🛠️ Technologies Used
+	•	Python
+	•	TensorFlow / PyTorch
+	•	React (for dashboard interface)
+	•	Node.js
+	•	ROS (Robot Operating System)
+	•	OpenCV
+	•	Arduino / Raspberry Pi
+	•	CAD tools (e.g., Fusion 360, SolidWorks)
+
+⸻
+
+🐞 Known Bugs
+	•	Auto-landing can misfire in low-light conditions
+	•	Battery calibration may desync under heavy load
+	•	Minor UI glitches on the flight dashboard
+	•	GPS jitter when switching altitude zones
+
+⸻
+
+👥 Contributors
+	•	EezyMongo – github.com/EezyMongo
+	•	(Add more contributors here if applicable)
+
+⸻
+
+📦 Installation & Usage
+
+Requirements
+	•	Python 3.10+
+	•	Node.js 18+
+	•	Docker (optional for containerized environments)
+	•	ROS 2 Foxy
+	•	Arduino IDE
